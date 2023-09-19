@@ -9,7 +9,7 @@ void main()
     scanf("%s", Name);
     do
     {
-      printf("What is your blood group [Y, U, AB, or O]? ");
+      printf("What is your blood group [K, T, AB, or O]? ");
       scanf("%s", G);
 
       if (strcmp(G, "A") !=0  &&
